@@ -1,6 +1,6 @@
 # Judge of Hell
 
-A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./minishell Mandatory 7-Prerequisites.
+A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./minishell Mandatory Seven(7)-Prerequisites.
 
 > by DETLI/42BKK
 > Special Credit to: BRO. ZAYMINMAW.com - 42BKKTH - for Tester Library Expansion+ 
