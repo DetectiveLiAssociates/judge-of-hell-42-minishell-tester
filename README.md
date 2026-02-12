@@ -43,7 +43,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Judge of Hell only comes in its solid binary file to secure the Integrity of all Testing Materials compiled inside - from any possible external breach.
 
-- Judge of Hell only tests input parameters; and doesn't test your minishell History, Sorted ENV Variables, Memory Leakage, *NORMINETTE*-dressings, CTRL-C, CTRL-D, and CTRL-\ hardware-based input prerequisites - those which must be tested manually on your own.
+- Judge of Hell only tests input parameters; and doesn't test your minishell History, Sorted ENV Variables, Memory Leakage, *NORMINETTE*-dressings, CTRL-C, CTRL-D, and CTRL-\ hardware-based inputs - which must be tested manually on your own.
 
 - Judge of Hell does not test Bonus Level parts; and does not test your minishell adrift beyond the scope of the instructed seven(7)-Mandatory Built-ins prerequisites: ***echo with -n flag, cd, pwd, env, export, unset, exit.*** Meanwhile, additional operational attributes, such as: redirections, $?, single/double-quotes, *alike* - are regarded as conclusive complementaries. Per recent Senior's advice, and per instruction stated inside the minishell manual .pdf - for us to bear in mind that: *minishell is just a Mini-Shell, NOT a Full-Blown Shell*.
 
