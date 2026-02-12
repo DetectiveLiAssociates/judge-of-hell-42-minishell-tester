@@ -27,6 +27,8 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Choose Download
 
+- Once fully-downloaded, check your Downloads/ folder; then move it into your main minishell/ folder
+
 ## Technical
 
 - Judge of Hell will provide Rapid Parameter Testing Automation as a helping tool for anyone doing and or (especially) debugging minishell project; since any new code-modification would likely need another rapid code-balancing testings to check if everything remains working right from the square one, something which would be severely time-consuming if done manually; and could possibly leave unprecedented vulnerabilities if some testing parameters get forgotten during the redo.
