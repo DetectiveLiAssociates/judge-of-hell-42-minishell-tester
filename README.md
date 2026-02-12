@@ -17,7 +17,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - It's because, Judge of Hell will Test-Run your minishell LIVE during the Testing
 
-- RUN:   ./judge-of-hell
+- The Final Step is >>> RUN:   ./judge-of-hell
 
 ## How to Download
 
@@ -26,6 +26,24 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 - When a new page opens up, click the 3-Dot Button on the Top-Right side of the screen
 
 - Choose Download
+
+## Technical
+
+- Judge of Hell will provide Rapid Parameter Testing Automation as a helping tool for anyone doing and or (especially) debugging minishell project; since any new code-modification would likely need another rapid code-balancing testings to check if everything remains working right from the square one, something which would be severely time-consuming if done manually; and could possibly leave unprecedented vulnerabilities if some testing parameters get forgotten during the redo.
+
+- Judge of Hell will stress-test your minishell (without mercy) at the seven(7)-Mandatory prerequisite level with 200+ selected parameters, ranging from the simplest single service requests, to the intermediate level - reflecting exhaustive takes inspired by the infamous Dasha's minishell .pdf compilation, and up-to the most recent Extreme Mandatory-level testing parameters created by several generative . Hence, '3-Fire-Icons' does means Super-Spicy - a.k.a - Extreme level.
+
+- Your Minishell Exit Signal will also be tested against the Standard BASH Exit Signal; thus your exit signal must meet the same Standard BASH value.
+
+- Per Seniors' Guidance, BASH STDIN output would not be tested - thus your detour away from any STDIN mode by directing it into Error-Handling mode is appreciated as well.  
+
+- Judge of Hell only test input parameters; and doesn't test your minishell History, CTRL-C, CTRL-D, and CTRL-\ hardware-based input prerequisites - which must be tested manually on your own.
+
+- Judge of Hell does not test Bonus Level parts; and does not test beyond the scope of the instructed seven(7)-Mandatory Built-ins prerequisites: echo with -n flag, cd, pwd, env, export, unset, exit. Per one Senior's advice, as well as per instruction stated inside the minishell manual .pdf - always do remember that: minishell is just a Mini-Shell, and NOT a Full-Blown Shell.
+
+- At the end of the testing, Judge of Hell would appreciate your minishell performance in a short summary, based on how many successes and fails your minishell did; plus - the projected average percentage(%) score.
+
+- Judge of Hell was packed with 'special' sense of dark humor as part of a relaxing work session. Feel free to laugh along.
 
 Cheers!
 
