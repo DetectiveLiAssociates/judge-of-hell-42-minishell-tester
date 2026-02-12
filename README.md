@@ -17,7 +17,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - It's because, Judge of Hell will only run by Test-Driving your minishell **LIVE** during the Testing
 
-- The Final Step is >>> Just RUN:   ./judge-of-hell
+- The Final Step is >>> Just CALL:   ./judge-of-hell
 
 ## How to Download
 
