@@ -35,7 +35,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Judge of Hell will stress-test your minishell (without mercy) at the seven(7)-Mandatory prerequisite level with 200+ selected parameters, ranging from the simplest single service requests, to the intermediate level - reflecting exhaustive takes inspired by the infamous Dasha's minishell .pdf compilation, and up-to the most recent Extreme Mandatory-level testing parameters created by several generative . Hence, '3-Fire-Icons' does mean 'Super-Spicy' - a.k.a - Extreme level.
 
-- Eversince Judge of Hell will only run by Test-Driving your minishell, you could easily observe the correlation event: if your minishell has severe undetected faulty and it crashed out afterr certain tested parameter/s, then Judge of Hell would also stop working. You could then check on the output display, what kind of testing parameter that causes such logical crash to your minishell.   
+- Eversince Judge of Hell will only run by Test-Driving your minishell, you could easily observe the correlation event: if your minishell has severe undetected faulty and it crashed out afterr certain tested parameter/s, then Judge of Hell would also stop working. You could then spot the output display, what kind of testing parameter that causes such logical crash to your minishell.   
 
 - Your Minishell Exit Signal will also be tested against the Standard BASH Exit Signal; thus your exit signal must meet the same Standard BASH value.
 
